@@ -239,6 +239,6 @@ Student at Python Myanmanr Institute
 
 ## 📖 Educational Purpose
 
-This repository was developed as part of a university capstone project for educational purposes. The project demonstrates the application of Python, data analytics, and machine learning techniques to solve a real-world business problem through customer and product segmentation.
+This repository was developed as part of a school capstone project for educational purposes. The project demonstrates the application of Python, data analytics, and machine learning techniques to solve a real-world business problem through customer and product segmentation.
 
 If you are learning Python, data analytics, or machine learning, feel free to explore the notebook, use the code as a reference, and build upon it for your own learning.
